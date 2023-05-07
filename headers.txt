@@ -1,0 +1,1 @@
+Income	MntWines	MntSweetProducts	MntFruits	MntMeatProducts	MntFishProducts	NumWebPurchases	NumStorePurchases	NumDealsPurchases	 NumCatalogPurchases	NUM OF CHILDREN	NUM OF TEENS
